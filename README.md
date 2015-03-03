@@ -8,4 +8,4 @@
 
 *I* am going to create a conflict.
 
-/* *Bold* /*
+/*/* **Bold** /*/*
