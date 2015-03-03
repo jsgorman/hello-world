@@ -1,9 +1,11 @@
 # hello-world
 
-This is a test of the commit changes feature.
+## This is a test of the commit changes feature.
 
-I want to see more green.
+* I want to see more green.
 
-Here we go.
+* Here we go.
 
-I am going to create a conflict.
+*I* am going to create a conflict.
+
+/* *Bold* /*
